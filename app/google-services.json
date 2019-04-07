@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "305351337113",
+    "firebase_url": "https://puppy-planner-bee04.firebaseio.com",
+    "project_id": "puppy-planner-bee04",
+    "storage_bucket": "puppy-planner-bee04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305351337113:android:4e10cd562205241d",
+        "android_client_info": {
+          "package_name": "com.hwang.mypuppyplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305351337113-el8hapgkliikbkpqt7lq29ndvmckib9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hwang.mypuppyplanner",
+            "certificate_hash": "6904ff6b905963804d8725cf31489bb4014bf296"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdBXRGxTOcARuhwdTPt5siajJ1FknxjeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305351337113-1b0bhdqcr737kp1nk215bqp8vi9ar9u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
